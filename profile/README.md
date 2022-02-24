@@ -41,15 +41,9 @@
     
 [GFM] [.github](https://github.com/afkvido-development/.github) - This document (Markdown, GitHub Flavored Markdown)
 
-[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - chat engine platform thing (Pure Java)
-    
-[Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta (Pure Java)
-    
-[Java] [MessageEngine Alpha](https://github.com/afkvido/MessageEngine-Alpha) - MessageEngine Public Alpha Test (Pure Java)
-    
-[GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
-           
-[Java] [MessageEngine LITE](https://github.com/afkvido-development/MessageEngineLITE) - chat engine platform thing, but less glitchy (Pure Java)
+[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - MessageEngine Client (Pure Java)
+               
+[Java] [MessageEngine Core](https://github.com/afkvido-development/MessageEngine-Core) - MessageEngine, but made as a plugin! (Pure Java)
     
 [YML] [MessageEngine ServerTemplate](https://github.com/afkvido-development/MessageEngine-ServerTemplate) - template for MessageEngine chatServers (Mostly YAML)
     
